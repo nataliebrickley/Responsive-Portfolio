@@ -216,7 +216,7 @@ input[type=submit] {
   border: 0 none;
 }
 /*Media Queries*/
-/* need footer to stick to the bottom!*/
+
 @media screen and (max-width: 980px) {
   body {
     margin: 0px;
@@ -227,7 +227,7 @@ input[type=submit] {
  #logo {
    margin-left: 40px;
  }
- .main-section {  /*need to undo this below*/
+ .main-section {  
   max-width: 650px;
   margin-left: 30px;
   margin-bottom: 300px;
